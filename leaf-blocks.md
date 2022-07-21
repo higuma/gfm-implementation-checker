@@ -1,4 +1,4 @@
-# GFM implementation checker - [4 Leaf blocks](https://higuma.github.io/github-flabored-markdown/#leaf-blocks)
+# GFM implementation checker - [4 Leaf blocks](https://higuma.github.io/gfm-implementation-checker/#leaf-blocks)
 
 [3 Blocks and inlines](blocks-and-inlines.md)
 ← [Table of Contents](index.md) →
@@ -6,9 +6,9 @@
 
 ------------------------------------------------------------------------
 
-## [4.1 Thematic breaks](https://higuma.github.io/github-flabored-markdown/#thematic-breaks)
+## [4.1 Thematic breaks](https://higuma.github.io/gfm-implementation-checker/#thematic-breaks)
 
-### [Example 13](https://higuma.github.io/github-flabored-markdown/#example-13)
+### [Example 13](https://higuma.github.io/gfm-implementation-checker/#example-13)
 
 ```markdown
 ***
@@ -20,7 +20,7 @@ ___
 ---
 ___
 
-### [Example 14](https://higuma.github.io/github-flabored-markdown/#example-14)
+### [Example 14](https://higuma.github.io/gfm-implementation-checker/#example-14)
 
 ```markdown
 +++
@@ -28,7 +28,7 @@ ___
 
 +++
 
-### [Example 15](https://higuma.github.io/github-flabored-markdown/#example-15)
+### [Example 15](https://higuma.github.io/gfm-implementation-checker/#example-15)
 
 ```markdown
 ===
@@ -36,7 +36,7 @@ ___
 
 ===
 
-### [Example 16](https://higuma.github.io/github-flabored-markdown/#example-16)
+### [Example 16](https://higuma.github.io/gfm-implementation-checker/#example-16)
 
 ```markdown
 --
@@ -48,7 +48,7 @@ __
 **
 __
 
-### [Example 17](https://higuma.github.io/github-flabored-markdown/#example-17)
+### [Example 17](https://higuma.github.io/gfm-implementation-checker/#example-17)
 
 ```markdown
  ***
@@ -60,7 +60,7 @@ __
   ***
    ***
 
-### [Example 18](https://higuma.github.io/github-flabored-markdown/#example-18)
+### [Example 18](https://higuma.github.io/gfm-implementation-checker/#example-18)
 
 ```markdown
     ***
@@ -68,7 +68,7 @@ __
 
     ***
 
-### [Example 19](https://higuma.github.io/github-flabored-markdown/#example-19)
+### [Example 19](https://higuma.github.io/gfm-implementation-checker/#example-19)
 
 ```markdown
 Foo
@@ -78,7 +78,7 @@ Foo
 Foo
     ***
 
-### [Example 20](https://higuma.github.io/github-flabored-markdown/#example-20)
+### [Example 20](https://higuma.github.io/gfm-implementation-checker/#example-20)
 
 ```markdown
 _____________________________________
@@ -86,7 +86,7 @@ _____________________________________
 
 _____________________________________
 
-### [Example 21](https://higuma.github.io/github-flabored-markdown/#example-21)
+### [Example 21](https://higuma.github.io/gfm-implementation-checker/#example-21)
 
 ```markdown
  - - -
@@ -94,7 +94,7 @@ _____________________________________
 
  - - -
 
-### [Example 22](https://higuma.github.io/github-flabored-markdown/#example-22)
+### [Example 22](https://higuma.github.io/gfm-implementation-checker/#example-22)
 
 ```markdown
  **  * ** * ** * **
@@ -102,7 +102,7 @@ _____________________________________
 
  **  * ** * ** * **
 
-### [Example 23](https://higuma.github.io/github-flabored-markdown/#example-23)
+### [Example 23](https://higuma.github.io/gfm-implementation-checker/#example-23)
 
 ```markdown
 -     -      -      -
@@ -110,7 +110,7 @@ _____________________________________
 
 -     -      -      -
 
-### [Example 24](https://higuma.github.io/github-flabored-markdown/#example-24)
+### [Example 24](https://higuma.github.io/gfm-implementation-checker/#example-24)
 
 ```markdown
 - - - -    
@@ -118,7 +118,7 @@ _____________________________________
 
 - - - -    
 
-### [Example 25](https://higuma.github.io/github-flabored-markdown/#example-25)
+### [Example 25](https://higuma.github.io/gfm-implementation-checker/#example-25)
 
 ```markdown
 _ _ _ _ a
@@ -133,7 +133,7 @@ a------
 
 ---a---
 
-### [Example 26](https://higuma.github.io/github-flabored-markdown/#example-26)
+### [Example 26](https://higuma.github.io/gfm-implementation-checker/#example-26)
 
 ```markdown
  *-*
@@ -141,7 +141,7 @@ a------
 
  *-*
 
-### [Example 27](https://higuma.github.io/github-flabored-markdown/#example-27)
+### [Example 27](https://higuma.github.io/gfm-implementation-checker/#example-27)
 
 ```markdown
 - foo
@@ -153,7 +153,7 @@ a------
 ***
 - bar
 
-### [Example 28](https://higuma.github.io/github-flabored-markdown/#example-28)
+### [Example 28](https://higuma.github.io/gfm-implementation-checker/#example-28)
 
 ```markdown
 Foo
@@ -165,7 +165,7 @@ Foo
 ***
 bar
 
-### [Example 29](https://higuma.github.io/github-flabored-markdown/#example-29)
+### [Example 29](https://higuma.github.io/gfm-implementation-checker/#example-29)
 
 ```markdown
 Foo
@@ -177,7 +177,7 @@ Foo
 ---
 bar
 
-### [Example 30](https://higuma.github.io/github-flabored-markdown/#example-30)
+### [Example 30](https://higuma.github.io/gfm-implementation-checker/#example-30)
 
 ```markdown
 * Foo
@@ -189,7 +189,7 @@ bar
 * * *
 * Bar
 
-### [Example 31](https://higuma.github.io/github-flabored-markdown/#example-31)
+### [Example 31](https://higuma.github.io/gfm-implementation-checker/#example-31)
 
 ```markdown
 - Foo
@@ -199,9 +199,9 @@ bar
 - Foo
 - * * *
 
-## [4.2 ATX headings](https://higuma.github.io/github-flabored-markdown/#atx-headings)
+## [4.2 ATX headings](https://higuma.github.io/gfm-implementation-checker/#atx-headings)
 
-### [Example 32](https://higuma.github.io/github-flabored-markdown/#example-32)
+### [Example 32](https://higuma.github.io/gfm-implementation-checker/#example-32)
 
 ```markdown
 # foo
@@ -219,7 +219,7 @@ bar
 ##### foo
 ###### foo
 
-### [Example 33](https://higuma.github.io/github-flabored-markdown/#example-33)
+### [Example 33](https://higuma.github.io/gfm-implementation-checker/#example-33)
 
 ```markdown
 ####### foo
@@ -227,7 +227,7 @@ bar
 
 ####### foo
 
-### [Example 34](https://higuma.github.io/github-flabored-markdown/#example-34)
+### [Example 34](https://higuma.github.io/gfm-implementation-checker/#example-34)
 
 ```markdown
 #5 bolt
@@ -239,7 +239,7 @@ bar
 
 #hashtag
 
-### [Example 35](https://higuma.github.io/github-flabored-markdown/#example-35)
+### [Example 35](https://higuma.github.io/gfm-implementation-checker/#example-35)
 
 ```markdown
 \## foo
@@ -247,7 +247,7 @@ bar
 
 \## foo
 
-### [Example 36](https://higuma.github.io/github-flabored-markdown/#example-36)
+### [Example 36](https://higuma.github.io/gfm-implementation-checker/#example-36)
 
 ```markdown
 # foo *bar* \*baz\*
@@ -255,7 +255,7 @@ bar
 
 # foo *bar* \*baz\*
 
-### [Example 37](https://higuma.github.io/github-flabored-markdown/#example-37)
+### [Example 37](https://higuma.github.io/gfm-implementation-checker/#example-37)
 
 ```markdown
 #                  foo                     
@@ -263,7 +263,7 @@ bar
 
 #                  foo                     
 
-### [Example 38](https://higuma.github.io/github-flabored-markdown/#example-38)
+### [Example 38](https://higuma.github.io/gfm-implementation-checker/#example-38)
 
 ```markdown
  ### foo
@@ -275,7 +275,7 @@ bar
   ## foo
    # foo
 
-### [Example 39](https://higuma.github.io/github-flabored-markdown/#example-39)
+### [Example 39](https://higuma.github.io/gfm-implementation-checker/#example-39)
 
 ```markdown
     # foo
@@ -283,7 +283,7 @@ bar
 
     # foo
 
-### [Example 40](https://higuma.github.io/github-flabored-markdown/#example-40)
+### [Example 40](https://higuma.github.io/gfm-implementation-checker/#example-40)
 
 ```markdown
 foo
@@ -293,7 +293,7 @@ foo
 foo
     # bar
 
-### [Example 41](https://higuma.github.io/github-flabored-markdown/#example-41)
+### [Example 41](https://higuma.github.io/gfm-implementation-checker/#example-41)
 
 ```markdown
 ## foo ##
@@ -303,7 +303,7 @@ foo
 ## foo ##
   ###   bar    ###
 
-### [Example 42](https://higuma.github.io/github-flabored-markdown/#example-42)
+### [Example 42](https://higuma.github.io/gfm-implementation-checker/#example-42)
 
 ```markdown
 # foo ##################################
@@ -313,7 +313,7 @@ foo
 # foo ##################################
 ##### foo ##
 
-### [Example 43](https://higuma.github.io/github-flabored-markdown/#example-43)
+### [Example 43](https://higuma.github.io/gfm-implementation-checker/#example-43)
 
 ```markdown
 ### foo ###     
@@ -321,7 +321,7 @@ foo
 
 ### foo ###     
 
-### [Example 44](https://higuma.github.io/github-flabored-markdown/#example-44)
+### [Example 44](https://higuma.github.io/gfm-implementation-checker/#example-44)
 
 ```markdown
 ### foo ### b
@@ -329,7 +329,7 @@ foo
 
 ### foo ### b
 
-### [Example 45](https://higuma.github.io/github-flabored-markdown/#example-45)
+### [Example 45](https://higuma.github.io/gfm-implementation-checker/#example-45)
 
 ```markdown
 # foo#
@@ -337,7 +337,7 @@ foo
 
 # foo#
 
-### [Example 46](https://higuma.github.io/github-flabored-markdown/#example-46)
+### [Example 46](https://higuma.github.io/gfm-implementation-checker/#example-46)
 
 ```markdown
 ### foo \###
@@ -349,7 +349,7 @@ foo
 ## foo #\##
 # foo \#
 
-### [Example 47](https://higuma.github.io/github-flabored-markdown/#example-47)
+### [Example 47](https://higuma.github.io/gfm-implementation-checker/#example-47)
 
 ```markdown
 ****
@@ -361,7 +361,7 @@ foo
 ## foo
 ****
 
-### [Example 48](https://higuma.github.io/github-flabored-markdown/#example-48)
+### [Example 48](https://higuma.github.io/gfm-implementation-checker/#example-48)
 
 ```markdown
 Foo bar
@@ -373,7 +373,7 @@ Foo bar
 # baz
 Bar foo
 
-### [Example 49](https://higuma.github.io/github-flabored-markdown/#example-49)
+### [Example 49](https://higuma.github.io/gfm-implementation-checker/#example-49)
 
 ```markdown
 ## 
@@ -385,9 +385,9 @@ Bar foo
 #
 ### ###
 
-## [4.3 Setext headings](https://higuma.github.io/github-flabored-markdown/#setext-headings)
+## [4.3 Setext headings](https://higuma.github.io/gfm-implementation-checker/#setext-headings)
 
-### [Example 50](https://higuma.github.io/github-flabored-markdown/#example-50)
+### [Example 50](https://higuma.github.io/gfm-implementation-checker/#example-50)
 
 ```markdown
 Foo *bar*
@@ -403,7 +403,7 @@ Foo *bar*
 Foo *bar*
 ---------
 
-### [Example 51](https://higuma.github.io/github-flabored-markdown/#example-51)
+### [Example 51](https://higuma.github.io/gfm-implementation-checker/#example-51)
 
 ```markdown
 Foo *bar
@@ -415,7 +415,7 @@ Foo *bar
 baz*
 ====
 
-### [Example 52](https://higuma.github.io/github-flabored-markdown/#example-52)
+### [Example 52](https://higuma.github.io/gfm-implementation-checker/#example-52)
 
 ```markdown
   Foo *bar
@@ -427,7 +427,7 @@ baz*
 baz*	
 ====
 
-### [Example 53](https://higuma.github.io/github-flabored-markdown/#example-53)
+### [Example 53](https://higuma.github.io/gfm-implementation-checker/#example-53)
 
 ```markdown
 Foo
@@ -443,7 +443,7 @@ Foo
 Foo
 =
 
-### [Example 54](https://higuma.github.io/github-flabored-markdown/#example-54)
+### [Example 54](https://higuma.github.io/gfm-implementation-checker/#example-54)
 
 ```markdown
    Foo
@@ -465,7 +465,7 @@ Foo
   Foo
   ===
 
-### [Example 55](https://higuma.github.io/github-flabored-markdown/#example-55)
+### [Example 55](https://higuma.github.io/gfm-implementation-checker/#example-55)
 
 ```markdown
     Foo
@@ -481,7 +481,7 @@ Foo
     Foo
 ---
 
-### [Example 56](https://higuma.github.io/github-flabored-markdown/#example-56)
+### [Example 56](https://higuma.github.io/gfm-implementation-checker/#example-56)
 
 ```markdown
 Foo
@@ -491,7 +491,7 @@ Foo
 Foo
    ----      
 
-### [Example 57](https://higuma.github.io/github-flabored-markdown/#example-57)
+### [Example 57](https://higuma.github.io/gfm-implementation-checker/#example-57)
 
 ```markdown
 Foo
@@ -501,7 +501,7 @@ Foo
 Foo
     ---
 
-### [Example 58](https://higuma.github.io/github-flabored-markdown/#example-58)
+### [Example 58](https://higuma.github.io/gfm-implementation-checker/#example-58)
 
 ```markdown
 Foo
@@ -517,7 +517,7 @@ Foo
 Foo
 --- -
 
-### [Example 59](https://higuma.github.io/github-flabored-markdown/#example-59)
+### [Example 59](https://higuma.github.io/gfm-implementation-checker/#example-59)
 
 ```markdown
 Foo  
@@ -527,7 +527,7 @@ Foo
 Foo  
 -----
 
-### [Example 60](https://higuma.github.io/github-flabored-markdown/#example-60)
+### [Example 60](https://higuma.github.io/gfm-implementation-checker/#example-60)
 
 ```markdown
 Foo\
@@ -537,7 +537,7 @@ Foo\
 Foo\
 ----
 
-### [Example 61](https://higuma.github.io/github-flabored-markdown/#example-61)
+### [Example 61](https://higuma.github.io/gfm-implementation-checker/#example-61)
 
 ```markdown
 `Foo
@@ -557,7 +557,7 @@ of dashes"/>
 ---
 of dashes"/>
 
-### [Example 62](https://higuma.github.io/github-flabored-markdown/#example-62)
+### [Example 62](https://higuma.github.io/gfm-implementation-checker/#example-62)
 
 ```markdown
 > Foo
@@ -567,7 +567,7 @@ of dashes"/>
 > Foo
 ---
 
-### [Example 63](https://higuma.github.io/github-flabored-markdown/#example-63)
+### [Example 63](https://higuma.github.io/gfm-implementation-checker/#example-63)
 
 ```markdown
 > foo
@@ -579,7 +579,7 @@ bar
 bar
 ===
 
-### [Example 64](https://higuma.github.io/github-flabored-markdown/#example-64)
+### [Example 64](https://higuma.github.io/gfm-implementation-checker/#example-64)
 
 ```markdown
 - Foo
@@ -589,7 +589,7 @@ bar
 - Foo
 ---
 
-### [Example 65](https://higuma.github.io/github-flabored-markdown/#example-65)
+### [Example 65](https://higuma.github.io/gfm-implementation-checker/#example-65)
 
 ```markdown
 Foo
@@ -601,7 +601,7 @@ Foo
 Bar
 ---
 
-### [Example 66](https://higuma.github.io/github-flabored-markdown/#example-66)
+### [Example 66](https://higuma.github.io/gfm-implementation-checker/#example-66)
 
 ```markdown
 ---
@@ -619,7 +619,7 @@ Bar
 ---
 Baz
 
-### [Example 67](https://higuma.github.io/github-flabored-markdown/#example-67)
+### [Example 67](https://higuma.github.io/gfm-implementation-checker/#example-67)
 
 ```markdown
 
@@ -628,7 +628,7 @@ Baz
 
 ====
 
-### [Example 68](https://higuma.github.io/github-flabored-markdown/#example-68)
+### [Example 68](https://higuma.github.io/gfm-implementation-checker/#example-68)
 
 ```markdown
 ---
@@ -638,7 +638,7 @@ Baz
 ---
 ---
 
-### [Example 69](https://higuma.github.io/github-flabored-markdown/#example-69)
+### [Example 69](https://higuma.github.io/gfm-implementation-checker/#example-69)
 
 ```markdown
 - foo
@@ -648,7 +648,7 @@ Baz
 - foo
 -----
 
-### [Example 70](https://higuma.github.io/github-flabored-markdown/#example-70)
+### [Example 70](https://higuma.github.io/gfm-implementation-checker/#example-70)
 
 ```markdown
     foo
@@ -658,7 +658,7 @@ Baz
     foo
 ---
 
-### [Example 71](https://higuma.github.io/github-flabored-markdown/#example-71)
+### [Example 71](https://higuma.github.io/gfm-implementation-checker/#example-71)
 
 ```markdown
 > foo
@@ -668,7 +668,7 @@ Baz
 > foo
 -----
 
-### [Example 72](https://higuma.github.io/github-flabored-markdown/#example-72)
+### [Example 72](https://higuma.github.io/gfm-implementation-checker/#example-72)
 
 ```markdown
 \> foo
@@ -678,7 +678,7 @@ Baz
 \> foo
 ------
 
-### [Example 73](https://higuma.github.io/github-flabored-markdown/#example-73)
+### [Example 73](https://higuma.github.io/gfm-implementation-checker/#example-73)
 
 ```markdown
 Foo
@@ -694,7 +694,7 @@ bar
 ---
 baz
 
-### [Example 74](https://higuma.github.io/github-flabored-markdown/#example-74)
+### [Example 74](https://higuma.github.io/gfm-implementation-checker/#example-74)
 
 ```markdown
 Foo
@@ -712,7 +712,7 @@ bar
 
 baz
 
-### [Example 75](https://higuma.github.io/github-flabored-markdown/#example-75)
+### [Example 75](https://higuma.github.io/gfm-implementation-checker/#example-75)
 
 ```markdown
 Foo
@@ -726,7 +726,7 @@ bar
 * * *
 baz
 
-### [Example 76](https://higuma.github.io/github-flabored-markdown/#example-76)
+### [Example 76](https://higuma.github.io/gfm-implementation-checker/#example-76)
 
 ```markdown
 Foo
@@ -740,9 +740,9 @@ bar
 \---
 baz
 
-## [4.4 Indented code blocks](https://higuma.github.io/github-flabored-markdown/#indented-code-blocks)
+## [4.4 Indented code blocks](https://higuma.github.io/gfm-implementation-checker/#indented-code-blocks)
 
-### [Example 77](https://higuma.github.io/github-flabored-markdown/#example-77)
+### [Example 77](https://higuma.github.io/gfm-implementation-checker/#example-77)
 
 ```markdown
     a simple
@@ -752,7 +752,7 @@ baz
     a simple
       indented code block
 
-### [Example 78](https://higuma.github.io/github-flabored-markdown/#example-78)
+### [Example 78](https://higuma.github.io/gfm-implementation-checker/#example-78)
 
 ```markdown
   - foo
@@ -764,7 +764,7 @@ baz
 
     bar
 
-### [Example 79](https://higuma.github.io/github-flabored-markdown/#example-79)
+### [Example 79](https://higuma.github.io/gfm-implementation-checker/#example-79)
 
 ```markdown
 1.  foo
@@ -776,7 +776,7 @@ baz
 
     - bar
 
-### [Example 80](https://higuma.github.io/github-flabored-markdown/#example-80)
+### [Example 80](https://higuma.github.io/gfm-implementation-checker/#example-80)
 
 ```markdown
     <a/>
@@ -790,7 +790,7 @@ baz
 
     - one
 
-### [Example 81](https://higuma.github.io/github-flabored-markdown/#example-81)
+### [Example 81](https://higuma.github.io/gfm-implementation-checker/#example-81)
 
 ```markdown
     chunk1
@@ -810,7 +810,7 @@ baz
  
     chunk3
 
-### [Example 82](https://higuma.github.io/github-flabored-markdown/#example-82)
+### [Example 82](https://higuma.github.io/gfm-implementation-checker/#example-82)
 
 ```markdown
     chunk1
@@ -822,7 +822,7 @@ baz
       
       chunk2
 
-### [Example 83](https://higuma.github.io/github-flabored-markdown/#example-83)
+### [Example 83](https://higuma.github.io/gfm-implementation-checker/#example-83)
 
 ```markdown
 Foo
@@ -832,7 +832,7 @@ Foo
 Foo
     bar
 
-### [Example 84](https://higuma.github.io/github-flabored-markdown/#example-84)
+### [Example 84](https://higuma.github.io/gfm-implementation-checker/#example-84)
 
 ```markdown
     foo
@@ -842,7 +842,7 @@ bar
     foo
 bar
 
-### [Example 85](https://higuma.github.io/github-flabored-markdown/#example-85)
+### [Example 85](https://higuma.github.io/gfm-implementation-checker/#example-85)
 
 ```markdown
 # Heading
@@ -860,7 +860,7 @@ Heading
     foo
 ----
 
-### [Example 86](https://higuma.github.io/github-flabored-markdown/#example-86)
+### [Example 86](https://higuma.github.io/gfm-implementation-checker/#example-86)
 
 ```markdown
         foo
@@ -870,7 +870,7 @@ Heading
         foo
     bar
 
-### [Example 87](https://higuma.github.io/github-flabored-markdown/#example-87)
+### [Example 87](https://higuma.github.io/gfm-implementation-checker/#example-87)
 
 ```markdown
 
@@ -884,7 +884,7 @@ Heading
     foo
     
 
-### [Example 88](https://higuma.github.io/github-flabored-markdown/#example-88)
+### [Example 88](https://higuma.github.io/gfm-implementation-checker/#example-88)
 
 ```markdown
     foo  
@@ -892,9 +892,9 @@ Heading
 
     foo  
 
-## [4.5 Fenced code blocks](https://higuma.github.io/github-flabored-markdown/#fenced-code-blocks)
+## [4.5 Fenced code blocks](https://higuma.github.io/gfm-implementation-checker/#fenced-code-blocks)
 
-### [Example 89](https://higuma.github.io/github-flabored-markdown/#example-89)
+### [Example 89](https://higuma.github.io/gfm-implementation-checker/#example-89)
 
 ``````markdown
 ```
@@ -908,7 +908,7 @@ Heading
  >
 ```
 
-### [Example 90](https://higuma.github.io/github-flabored-markdown/#example-90)
+### [Example 90](https://higuma.github.io/gfm-implementation-checker/#example-90)
 
 ``````markdown
 ~~~
@@ -922,7 +922,7 @@ Heading
  >
 ~~~
 
-### [Example 91](https://higuma.github.io/github-flabored-markdown/#example-91)
+### [Example 91](https://higuma.github.io/gfm-implementation-checker/#example-91)
 
 ``````markdown
 ``
@@ -934,7 +934,7 @@ foo
 foo
 ``
 
-### [Example 92](https://higuma.github.io/github-flabored-markdown/#example-92)
+### [Example 92](https://higuma.github.io/gfm-implementation-checker/#example-92)
 
 ``````markdown
 ```
@@ -948,7 +948,7 @@ aaa
 ~~~
 ```
 
-### [Example 93](https://higuma.github.io/github-flabored-markdown/#example-93)
+### [Example 93](https://higuma.github.io/gfm-implementation-checker/#example-93)
 
 ``````markdown
 ~~~
@@ -962,7 +962,7 @@ aaa
 ```
 ~~~
 
-### [Example 94](https://higuma.github.io/github-flabored-markdown/#example-94)
+### [Example 94](https://higuma.github.io/gfm-implementation-checker/#example-94)
 
 `````````markdown
 ````
@@ -976,7 +976,7 @@ aaa
 ```
 ``````
 
-### [Example 95](https://higuma.github.io/github-flabored-markdown/#example-95)
+### [Example 95](https://higuma.github.io/gfm-implementation-checker/#example-95)
 
 ``````markdown
 ~~~~
@@ -990,7 +990,7 @@ aaa
 ~~~
 ~~~~
 
-### [Example 96](https://higuma.github.io/github-flabored-markdown/#example-96)
+### [Example 96](https://higuma.github.io/gfm-implementation-checker/#example-96)
 
 ``````markdown
 ```
@@ -998,7 +998,7 @@ aaa
 
 → [Output](examples/96.md)
 
-### [Example 97](https://higuma.github.io/github-flabored-markdown/#example-97)
+### [Example 97](https://higuma.github.io/gfm-implementation-checker/#example-97)
 
 ``````markdown
 `````
@@ -1009,7 +1009,7 @@ aaa
 
 → [Output](examples/97.md)
 
-### [Example 98](https://higuma.github.io/github-flabored-markdown/#example-98)
+### [Example 98](https://higuma.github.io/gfm-implementation-checker/#example-98)
 
 ``````markdown
 > ```
@@ -1020,7 +1020,7 @@ bbb
 
 → [Output](examples/98.md)
 
-### [Example 99](https://higuma.github.io/github-flabored-markdown/#example-99)
+### [Example 99](https://higuma.github.io/gfm-implementation-checker/#example-99)
 
 ``````markdown
 ```
@@ -1034,7 +1034,7 @@ bbb
   
 ```
 
-### [Example 100](https://higuma.github.io/github-flabored-markdown/#example-100)
+### [Example 100](https://higuma.github.io/gfm-implementation-checker/#example-100)
 
 ``````markdown
 ```
@@ -1044,7 +1044,7 @@ bbb
 ```
 ```
 
-### [Example 101](https://higuma.github.io/github-flabored-markdown/#example-101)
+### [Example 101](https://higuma.github.io/gfm-implementation-checker/#example-101)
 
 ``````markdown
  ```
@@ -1058,7 +1058,7 @@ aaa
 aaa
 ```
 
-### [Example 102](https://higuma.github.io/github-flabored-markdown/#example-102)
+### [Example 102](https://higuma.github.io/gfm-implementation-checker/#example-102)
 
 ``````markdown
   ```
@@ -1074,7 +1074,7 @@ aaa
 aaa
   ```
 
-### [Example 103](https://higuma.github.io/github-flabored-markdown/#example-103)
+### [Example 103](https://higuma.github.io/gfm-implementation-checker/#example-103)
 
 ``````markdown
    ```
@@ -1090,7 +1090,7 @@ aaa
   aaa
    ```
 
-### [Example 104](https://higuma.github.io/github-flabored-markdown/#example-104)
+### [Example 104](https://higuma.github.io/gfm-implementation-checker/#example-104)
 
 ``````markdown
     ```
@@ -1102,7 +1102,7 @@ aaa
     aaa
     ```
 
-### [Example 105](https://higuma.github.io/github-flabored-markdown/#example-105)
+### [Example 105](https://higuma.github.io/gfm-implementation-checker/#example-105)
 
 ``````markdown
 ```
@@ -1114,7 +1114,7 @@ aaa
 aaa
   ```
 
-### [Example 106](https://higuma.github.io/github-flabored-markdown/#example-106)
+### [Example 106](https://higuma.github.io/gfm-implementation-checker/#example-106)
 
 ``````markdown
    ```
@@ -1126,7 +1126,7 @@ aaa
 aaa
   ```
 
-### [Example 107](https://higuma.github.io/github-flabored-markdown/#example-107)
+### [Example 107](https://higuma.github.io/gfm-implementation-checker/#example-107)
 
 ``````markdown
 ```
@@ -1136,7 +1136,7 @@ aaa
 
 → [Output](examples/107.md)
 
-### [Example 108](https://higuma.github.io/github-flabored-markdown/#example-108)
+### [Example 108](https://higuma.github.io/gfm-implementation-checker/#example-108)
 
 ``````markdown
 ``` ```
@@ -1146,7 +1146,7 @@ aaa
 ``` ```
 aaa
 
-### [Example 109](https://higuma.github.io/github-flabored-markdown/#example-109)
+### [Example 109](https://higuma.github.io/gfm-implementation-checker/#example-109)
 
 ``````markdown
 ~~~~~~
@@ -1156,7 +1156,7 @@ aaa
 
 → [Output](examples/109.md)
 
-### [Example 110](https://higuma.github.io/github-flabored-markdown/#example-110)
+### [Example 110](https://higuma.github.io/gfm-implementation-checker/#example-110)
 
 ``````markdown
 foo
@@ -1172,7 +1172,7 @@ bar
 ```
 baz
 
-### [Example 111](https://higuma.github.io/github-flabored-markdown/#example-111)
+### [Example 111](https://higuma.github.io/gfm-implementation-checker/#example-111)
 
 ``````markdown
 foo
@@ -1190,7 +1190,7 @@ bar
 ~~~
 # baz
 
-### [Example 112](https://higuma.github.io/github-flabored-markdown/#example-112)
+### [Example 112](https://higuma.github.io/gfm-implementation-checker/#example-112)
 
 ``````markdown
 ```ruby
@@ -1206,7 +1206,7 @@ def foo(x)
 end
 ```
 
-### [Example 113](https://higuma.github.io/github-flabored-markdown/#example-113)
+### [Example 113](https://higuma.github.io/gfm-implementation-checker/#example-113)
 
 ``````markdown
 ~~~~    ruby startline=3 $%@#$
@@ -1222,7 +1222,7 @@ def foo(x)
 end
 ~~~~~~~
 
-### [Example 114](https://higuma.github.io/github-flabored-markdown/#example-114)
+### [Example 114](https://higuma.github.io/gfm-implementation-checker/#example-114)
 
 ``````markdown
 ````;
@@ -1232,7 +1232,7 @@ end
 ````;
 ````
 
-### [Example 115](https://higuma.github.io/github-flabored-markdown/#example-115)
+### [Example 115](https://higuma.github.io/gfm-implementation-checker/#example-115)
 
 ``````markdown
 ``` aa ```
@@ -1242,7 +1242,7 @@ foo
 ``` aa ```
 foo
 
-### [Example 116](https://higuma.github.io/github-flabored-markdown/#example-116)
+### [Example 116](https://higuma.github.io/gfm-implementation-checker/#example-116)
 
 ``````markdown
 ~~~ aa ``` ~~~
@@ -1254,7 +1254,7 @@ foo
 foo
 ~~~
 
-### [Example 117](https://higuma.github.io/github-flabored-markdown/#example-117)
+### [Example 117](https://higuma.github.io/gfm-implementation-checker/#example-117)
 
 ``````markdown
 ```
@@ -1264,9 +1264,9 @@ foo
 
 → [Output](examples/117.md)
 
-## [4.6 HTML blocks](https://higuma.github.io/github-flabored-markdown/#html-blocks)
+## [4.6 HTML blocks](https://higuma.github.io/gfm-implementation-checker/#html-blocks)
 
-### [Example 118](https://higuma.github.io/github-flabored-markdown/#example-118)
+### [Example 118](https://higuma.github.io/gfm-implementation-checker/#example-118)
 
 ```markdown
 <table><tr><td>
@@ -1280,7 +1280,7 @@ _world_.
 
 → [Output](examples/118.md)
 
-### [Example 119](https://higuma.github.io/github-flabored-markdown/#example-119)
+### [Example 119](https://higuma.github.io/gfm-implementation-checker/#example-119)
 
 ```markdown
 <table>
@@ -1296,7 +1296,7 @@ okay.
 
 → [Output](examples/119.md)
 
-### [Example 120](https://higuma.github.io/github-flabored-markdown/#example-120)
+### [Example 120](https://higuma.github.io/gfm-implementation-checker/#example-120)
 
 ```markdown
  <div>
@@ -1306,7 +1306,7 @@ okay.
 
 → [Output](examples/120.md)
 
-### [Example 121](https://higuma.github.io/github-flabored-markdown/#example-121)
+### [Example 121](https://higuma.github.io/gfm-implementation-checker/#example-121)
 
 ```markdown
 </div>
@@ -1315,7 +1315,7 @@ okay.
 
 → [Output](examples/121.md)
 
-### [Example 122](https://higuma.github.io/github-flabored-markdown/#example-122)
+### [Example 122](https://higuma.github.io/gfm-implementation-checker/#example-122)
 
 ```markdown
 <DIV CLASS="foo">
@@ -1327,7 +1327,7 @@ okay.
 
 → [Output](examples/122.md)
 
-### [Example 123](https://higuma.github.io/github-flabored-markdown/#example-123)
+### [Example 123](https://higuma.github.io/gfm-implementation-checker/#example-123)
 
 ```markdown
 <div id="foo"
@@ -1337,7 +1337,7 @@ okay.
 
 → [Output](examples/123.md)
 
-### [Example 124](https://higuma.github.io/github-flabored-markdown/#example-124)
+### [Example 124](https://higuma.github.io/gfm-implementation-checker/#example-124)
 
 ```markdown
 <div id="foo" class="bar
@@ -1347,7 +1347,7 @@ okay.
 
 → [Output](examples/124.md)
 
-### [Example 125](https://higuma.github.io/github-flabored-markdown/#example-125)
+### [Example 125](https://higuma.github.io/gfm-implementation-checker/#example-125)
 
 ```markdown
 <div>
@@ -1358,7 +1358,7 @@ okay.
 
 → [Output](examples/125.md)
 
-### [Example 126](https://higuma.github.io/github-flabored-markdown/#example-126)
+### [Example 126](https://higuma.github.io/gfm-implementation-checker/#example-126)
 
 ```markdown
 <div id="foo"
@@ -1367,7 +1367,7 @@ okay.
 
 → [Output](examples/126.md)
 
-### [Example 127](https://higuma.github.io/github-flabored-markdown/#example-127)
+### [Example 127](https://higuma.github.io/gfm-implementation-checker/#example-127)
 
 ```markdown
 <div class
@@ -1376,7 +1376,7 @@ foo
 
 → [Output](examples/127.md)
 
-### [Example 128](https://higuma.github.io/github-flabored-markdown/#example-128)
+### [Example 128](https://higuma.github.io/gfm-implementation-checker/#example-128)
 
 ```markdown
 <div *???-&&&-<---
@@ -1385,7 +1385,7 @@ foo
 
 → [Output](examples/128.md)
 
-### [Example 129](https://higuma.github.io/github-flabored-markdown/#example-129)
+### [Example 129](https://higuma.github.io/gfm-implementation-checker/#example-129)
 
 ```markdown
 <div><a href="bar">*foo*</a></div>
@@ -1393,7 +1393,7 @@ foo
 
 → [Output](examples/129.md)
 
-### [Example 130](https://higuma.github.io/github-flabored-markdown/#example-130)
+### [Example 130](https://higuma.github.io/gfm-implementation-checker/#example-130)
 
 ```markdown
 <table><tr><td>
@@ -1403,7 +1403,7 @@ foo
 
 → [Output](examples/130.md)
 
-### [Example 131](https://higuma.github.io/github-flabored-markdown/#example-131)
+### [Example 131](https://higuma.github.io/gfm-implementation-checker/#example-131)
 
 ``````markdown
 <div></div>
@@ -1414,7 +1414,7 @@ int x = 33;
 
 → [Output](examples/131.md)
 
-### [Example 132](https://higuma.github.io/github-flabored-markdown/#example-132)
+### [Example 132](https://higuma.github.io/gfm-implementation-checker/#example-132)
 
 ```markdown
 <a href="foo">
@@ -1424,7 +1424,7 @@ int x = 33;
 
 → [Output](examples/132.md)
 
-### [Example 133](https://higuma.github.io/github-flabored-markdown/#example-133)
+### [Example 133](https://higuma.github.io/gfm-implementation-checker/#example-133)
 
 ```markdown
 <Warning>
@@ -1434,7 +1434,7 @@ int x = 33;
 
 → [Output](examples/133.md)
 
-### [Example 134](https://higuma.github.io/github-flabored-markdown/#example-134)
+### [Example 134](https://higuma.github.io/gfm-implementation-checker/#example-134)
 
 ```markdown
 <i class="foo">
@@ -1444,7 +1444,7 @@ int x = 33;
 
 → [Output](examples/134.md)
 
-### [Example 135](https://higuma.github.io/github-flabored-markdown/#example-135)
+### [Example 135](https://higuma.github.io/gfm-implementation-checker/#example-135)
 
 ```markdown
 </ins>
@@ -1453,7 +1453,7 @@ int x = 33;
 
 → [Output](examples/135.md)
 
-### [Example 136](https://higuma.github.io/github-flabored-markdown/#example-136)
+### [Example 136](https://higuma.github.io/gfm-implementation-checker/#example-136)
 
 ```markdown
 <del>
@@ -1463,7 +1463,7 @@ int x = 33;
 
 → [Output](examples/136.md)
 
-### [Example 137](https://higuma.github.io/github-flabored-markdown/#example-137)
+### [Example 137](https://higuma.github.io/gfm-implementation-checker/#example-137)
 
 ```markdown
 <del>
@@ -1475,7 +1475,7 @@ int x = 33;
 
 → [Output](examples/137.md)
 
-### [Example 138](https://higuma.github.io/github-flabored-markdown/#example-138)
+### [Example 138](https://higuma.github.io/gfm-implementation-checker/#example-138)
 
 ```markdown
 <del>*foo*</del>
@@ -1483,7 +1483,7 @@ int x = 33;
 
 → [Output](examples/138.md)
 
-### [Example 139](https://higuma.github.io/github-flabored-markdown/#example-139)
+### [Example 139](https://higuma.github.io/gfm-implementation-checker/#example-139)
 
 ```markdown
 <pre language="haskell"><code>
@@ -1497,7 +1497,7 @@ okay
 
 → [Output](examples/139.md)
 
-### [Example 140](https://higuma.github.io/github-flabored-markdown/#example-140)
+### [Example 140](https://higuma.github.io/gfm-implementation-checker/#example-140)
 
 ```markdown
 <script type="text/javascript">
@@ -1510,7 +1510,7 @@ okay
 
 → [Output](examples/140.md)
 
-### [Example 141](https://higuma.github.io/github-flabored-markdown/#example-141)
+### [Example 141](https://higuma.github.io/gfm-implementation-checker/#example-141)
 
 ```markdown
 <style
@@ -1524,7 +1524,7 @@ okay
 
 → [Output](examples/141.md)
 
-### [Example 142](https://higuma.github.io/github-flabored-markdown/#example-142)
+### [Example 142](https://higuma.github.io/gfm-implementation-checker/#example-142)
 
 ```markdown
 <style
@@ -1535,7 +1535,7 @@ foo
 
 → [Output](examples/142.md)
 
-### [Example 143](https://higuma.github.io/github-flabored-markdown/#example-143)
+### [Example 143](https://higuma.github.io/gfm-implementation-checker/#example-143)
 
 ```markdown
 > <div>
@@ -1546,7 +1546,7 @@ bar
 
 → [Output](examples/143.md)
 
-### [Example 144](https://higuma.github.io/github-flabored-markdown/#example-144)
+### [Example 144](https://higuma.github.io/gfm-implementation-checker/#example-144)
 
 ```markdown
 - <div>
@@ -1555,7 +1555,7 @@ bar
 
 → [Output](examples/144.md)
 
-### [Example 145](https://higuma.github.io/github-flabored-markdown/#example-145)
+### [Example 145](https://higuma.github.io/gfm-implementation-checker/#example-145)
 
 ```markdown
 <style>p{color:red;}</style>
@@ -1564,7 +1564,7 @@ bar
 
 → [Output](examples/145.md)
 
-### [Example 146](https://higuma.github.io/github-flabored-markdown/#example-146)
+### [Example 146](https://higuma.github.io/gfm-implementation-checker/#example-146)
 
 ```markdown
 <!-- foo -->*bar*
@@ -1573,7 +1573,7 @@ bar
 
 → [Output](examples/146.md)
 
-### [Example 147](https://higuma.github.io/github-flabored-markdown/#example-147)
+### [Example 147](https://higuma.github.io/gfm-implementation-checker/#example-147)
 
 ```markdown
 <script>
@@ -1583,7 +1583,7 @@ foo
 
 → [Output](examples/147.md)
 
-### [Example 148](https://higuma.github.io/github-flabored-markdown/#example-148)
+### [Example 148](https://higuma.github.io/gfm-implementation-checker/#example-148)
 
 ```markdown
 <!-- Foo
@@ -1595,7 +1595,7 @@ okay
 
 → [Output](examples/148.md)
 
-### [Example 149](https://higuma.github.io/github-flabored-markdown/#example-149)
+### [Example 149](https://higuma.github.io/gfm-implementation-checker/#example-149)
 
 ```markdown
 <?php
@@ -1608,7 +1608,7 @@ okay
 
 → [Output](examples/149.md)
 
-### [Example 150](https://higuma.github.io/github-flabored-markdown/#example-150)
+### [Example 150](https://higuma.github.io/gfm-implementation-checker/#example-150)
 
 ```markdown
 <!DOCTYPE html>
@@ -1616,7 +1616,7 @@ okay
 
 → [Output](examples/150.md)
 
-### [Example 151](https://higuma.github.io/github-flabored-markdown/#example-151)
+### [Example 151](https://higuma.github.io/gfm-implementation-checker/#example-151)
 
 ```markdown
 <![CDATA[
@@ -1636,7 +1636,7 @@ okay
 
 → [Output](examples/151.md)
 
-### [Example 152](https://higuma.github.io/github-flabored-markdown/#example-152)
+### [Example 152](https://higuma.github.io/gfm-implementation-checker/#example-152)
 
 ```markdown
   <!-- foo -->
@@ -1646,7 +1646,7 @@ okay
 
 → [Output](examples/152.md)
 
-### [Example 153](https://higuma.github.io/github-flabored-markdown/#example-153)
+### [Example 153](https://higuma.github.io/gfm-implementation-checker/#example-153)
 
 ```markdown
   <div>
@@ -1656,7 +1656,7 @@ okay
 
 → [Output](examples/153.md)
 
-### [Example 154](https://higuma.github.io/github-flabored-markdown/#example-154)
+### [Example 154](https://higuma.github.io/gfm-implementation-checker/#example-154)
 
 ```markdown
 Foo
@@ -1667,7 +1667,7 @@ bar
 
 → [Output](examples/154.md)
 
-### [Example 155](https://higuma.github.io/github-flabored-markdown/#example-155)
+### [Example 155](https://higuma.github.io/gfm-implementation-checker/#example-155)
 
 ```markdown
 <div>
@@ -1678,7 +1678,7 @@ bar
 
 → [Output](examples/155.md)
 
-### [Example 156](https://higuma.github.io/github-flabored-markdown/#example-156)
+### [Example 156](https://higuma.github.io/gfm-implementation-checker/#example-156)
 
 ```markdown
 Foo
@@ -1688,7 +1688,7 @@ baz
 
 → [Output](examples/156.md)
 
-### [Example 157](https://higuma.github.io/github-flabored-markdown/#example-157)
+### [Example 157](https://higuma.github.io/gfm-implementation-checker/#example-157)
 
 ```markdown
 <div>
@@ -1700,7 +1700,7 @@ baz
 
 → [Output](examples/157.md)
 
-### [Example 158](https://higuma.github.io/github-flabored-markdown/#example-158)
+### [Example 158](https://higuma.github.io/gfm-implementation-checker/#example-158)
 
 ```markdown
 <div>
@@ -1710,7 +1710,7 @@ baz
 
 → [Output](examples/158.md)
 
-### [Example 159](https://higuma.github.io/github-flabored-markdown/#example-159)
+### [Example 159](https://higuma.github.io/gfm-implementation-checker/#example-159)
 
 ```markdown
 <table>
@@ -1728,7 +1728,7 @@ Hi
 
 → [Output](examples/159.md)
 
-### [Example 160](https://higuma.github.io/github-flabored-markdown/#example-160)
+### [Example 160](https://higuma.github.io/gfm-implementation-checker/#example-160)
 
 ```markdown
 <table>
@@ -1746,9 +1746,9 @@ Hi
 
 → [Output](examples/160.md)
 
-## [4.7 Link reference definitions](https://higuma.github.io/github-flabored-markdown/#link-reference-definitions)
+## [4.7 Link reference definitions](https://higuma.github.io/gfm-implementation-checker/#link-reference-definitions)
 
-### [Example 161](https://higuma.github.io/github-flabored-markdown/#example-161)
+### [Example 161](https://higuma.github.io/gfm-implementation-checker/#example-161)
 
 ```markdown
 [foo]: /url "title"
@@ -1758,7 +1758,7 @@ Hi
 
 → [Output](examples/161.md)
 
-### [Example 162](https://higuma.github.io/github-flabored-markdown/#example-162)
+### [Example 162](https://higuma.github.io/gfm-implementation-checker/#example-162)
 
 ```markdown
    [foo]: 
@@ -1770,7 +1770,7 @@ Hi
 
 → [Output](examples/162.md)
 
-### [Example 163](https://higuma.github.io/github-flabored-markdown/#example-163)
+### [Example 163](https://higuma.github.io/gfm-implementation-checker/#example-163)
 
 ```markdown
 [Foo*bar\]]:my_(url) 'title (with parens)'
@@ -1780,7 +1780,7 @@ Hi
 
 → [Output](examples/163.md)
 
-### [Example 164](https://higuma.github.io/github-flabored-markdown/#example-164)
+### [Example 164](https://higuma.github.io/gfm-implementation-checker/#example-164)
 
 ```markdown
 [Foo bar]:
@@ -1792,7 +1792,7 @@ Hi
 
 → [Output](examples/164.md)
 
-### [Example 165](https://higuma.github.io/github-flabored-markdown/#example-165)
+### [Example 165](https://higuma.github.io/gfm-implementation-checker/#example-165)
 
 ```markdown
 [foo]: /url '
@@ -1806,7 +1806,7 @@ line2
 
 → [Output](examples/165.md)
 
-### [Example 166](https://higuma.github.io/github-flabored-markdown/#example-166)
+### [Example 166](https://higuma.github.io/gfm-implementation-checker/#example-166)
 
 ```markdown
 [foo]: /url 'title
@@ -1818,7 +1818,7 @@ with blank line'
 
 → [Output](examples/166.md)
 
-### [Example 167](https://higuma.github.io/github-flabored-markdown/#example-167)
+### [Example 167](https://higuma.github.io/gfm-implementation-checker/#example-167)
 
 ```markdown
 [foo]:
@@ -1829,7 +1829,7 @@ with blank line'
 
 → [Output](examples/167.md)
 
-### [Example 168](https://higuma.github.io/github-flabored-markdown/#example-168)
+### [Example 168](https://higuma.github.io/gfm-implementation-checker/#example-168)
 
 ```markdown
 [foo]:
@@ -1839,7 +1839,7 @@ with blank line'
 
 → [Output](examples/168.md)
 
-### [Example 169](https://higuma.github.io/github-flabored-markdown/#example-169)
+### [Example 169](https://higuma.github.io/gfm-implementation-checker/#example-169)
 
 ```markdown
 [foo]: <>
@@ -1849,7 +1849,7 @@ with blank line'
 
 → [Output](examples/169.md)
 
-### [Example 170](https://higuma.github.io/github-flabored-markdown/#example-170)
+### [Example 170](https://higuma.github.io/gfm-implementation-checker/#example-170)
 
 ```markdown
 [foo]: <bar>(baz)
@@ -1859,7 +1859,7 @@ with blank line'
 
 → [Output](examples/170.md)
 
-### [Example 171](https://higuma.github.io/github-flabored-markdown/#example-171)
+### [Example 171](https://higuma.github.io/gfm-implementation-checker/#example-171)
 
 ```markdown
 [foo]: /url\bar\*baz "foo\"bar\baz"
@@ -1869,7 +1869,7 @@ with blank line'
 
 → [Output](examples/171.md)
 
-### [Example 172](https://higuma.github.io/github-flabored-markdown/#example-172)
+### [Example 172](https://higuma.github.io/gfm-implementation-checker/#example-172)
 
 ```markdown
 [foo]
@@ -1879,7 +1879,7 @@ with blank line'
 
 → [Output](examples/172.md)
 
-### [Example 173](https://higuma.github.io/github-flabored-markdown/#example-173)
+### [Example 173](https://higuma.github.io/gfm-implementation-checker/#example-173)
 
 ```markdown
 [foo]
@@ -1890,7 +1890,7 @@ with blank line'
 
 → [Output](examples/173.md)
 
-### [Example 174](https://higuma.github.io/github-flabored-markdown/#example-174)
+### [Example 174](https://higuma.github.io/gfm-implementation-checker/#example-174)
 
 ```markdown
 [FOO]: /url
@@ -1900,7 +1900,7 @@ with blank line'
 
 → [Output](examples/174.md)
 
-### [Example 175](https://higuma.github.io/github-flabored-markdown/#example-175)
+### [Example 175](https://higuma.github.io/gfm-implementation-checker/#example-175)
 
 ```markdown
 [ΑΓΩ]: /φου
@@ -1910,7 +1910,7 @@ with blank line'
 
 → [Output](examples/175.md)
 
-### [Example 176](https://higuma.github.io/github-flabored-markdown/#example-176)
+### [Example 176](https://higuma.github.io/gfm-implementation-checker/#example-176)
 
 ```markdown
 [foo]: /url
@@ -1918,7 +1918,7 @@ with blank line'
 
 → [Output](examples/176.md)
 
-### [Example 177](https://higuma.github.io/github-flabored-markdown/#example-177)
+### [Example 177](https://higuma.github.io/gfm-implementation-checker/#example-177)
 
 ```markdown
 [
@@ -1929,7 +1929,7 @@ bar
 
 → [Output](examples/177.md)
 
-### [Example 178](https://higuma.github.io/github-flabored-markdown/#example-178)
+### [Example 178](https://higuma.github.io/gfm-implementation-checker/#example-178)
 
 ```markdown
 [foo]: /url "title" ok
@@ -1937,7 +1937,7 @@ bar
 
 → [Output](examples/178.md)
 
-### [Example 179](https://higuma.github.io/github-flabored-markdown/#example-179)
+### [Example 179](https://higuma.github.io/gfm-implementation-checker/#example-179)
 
 ```markdown
 [foo]: /url
@@ -1946,7 +1946,7 @@ bar
 
 → [Output](examples/179.md)
 
-### [Example 180](https://higuma.github.io/github-flabored-markdown/#example-180)
+### [Example 180](https://higuma.github.io/gfm-implementation-checker/#example-180)
 
 ```markdown
     [foo]: /url "title"
@@ -1956,7 +1956,7 @@ bar
 
 → [Output](examples/180.md)
 
-### [Example 181](https://higuma.github.io/github-flabored-markdown/#example-181)
+### [Example 181](https://higuma.github.io/gfm-implementation-checker/#example-181)
 
 ``````markdown
 ```
@@ -1968,7 +1968,7 @@ bar
 
 → [Output](examples/181.md)
 
-### [Example 182](https://higuma.github.io/github-flabored-markdown/#example-182)
+### [Example 182](https://higuma.github.io/gfm-implementation-checker/#example-182)
 
 ```markdown
 Foo
@@ -1979,7 +1979,7 @@ Foo
 
 → [Output](examples/182.md)
 
-### [Example 183](https://higuma.github.io/github-flabored-markdown/#example-183)
+### [Example 183](https://higuma.github.io/gfm-implementation-checker/#example-183)
 
 ```markdown
 # [Foo]
@@ -1989,7 +1989,7 @@ Foo
 
 → [Output](examples/183.md)
 
-### [Example 184](https://higuma.github.io/github-flabored-markdown/#example-184)
+### [Example 184](https://higuma.github.io/gfm-implementation-checker/#example-184)
 
 ```markdown
 [foo]: /url
@@ -2000,7 +2000,7 @@ bar
 
 → [Output](examples/184.md)
 
-### [Example 185](https://higuma.github.io/github-flabored-markdown/#example-185)
+### [Example 185](https://higuma.github.io/gfm-implementation-checker/#example-185)
 
 ```markdown
 [foo]: /url
@@ -2010,7 +2010,7 @@ bar
 
 → [Output](examples/185.md)
 
-### [Example 186](https://higuma.github.io/github-flabored-markdown/#example-186)
+### [Example 186](https://higuma.github.io/gfm-implementation-checker/#example-186)
 
 ```markdown
 [foo]: /foo-url "foo"
@@ -2025,7 +2025,7 @@ bar
 
 → [Output](examples/186.md)
 
-### [Example 187](https://higuma.github.io/github-flabored-markdown/#example-187)
+### [Example 187](https://higuma.github.io/gfm-implementation-checker/#example-187)
 
 ```markdown
 [foo]
@@ -2035,7 +2035,7 @@ bar
 
 → [Output](examples/187.md)
 
-### [Example 188](https://higuma.github.io/github-flabored-markdown/#example-188)
+### [Example 188](https://higuma.github.io/gfm-implementation-checker/#example-188)
 
 ```markdown
 [foo]: /url
@@ -2043,9 +2043,9 @@ bar
 
 → [Output](examples/188.md)
 
-## [4.8 Paragraphs](https://higuma.github.io/github-flabored-markdown/#paragraphs)
+## [4.8 Paragraphs](https://higuma.github.io/gfm-implementation-checker/#paragraphs)
 
-### [Example 189](https://higuma.github.io/github-flabored-markdown/#example-189)
+### [Example 189](https://higuma.github.io/gfm-implementation-checker/#example-189)
 
 ```markdown
 aaa
@@ -2057,7 +2057,7 @@ aaa
 
 bbb
 
-### [Example 190](https://higuma.github.io/github-flabored-markdown/#example-190)
+### [Example 190](https://higuma.github.io/gfm-implementation-checker/#example-190)
 
 ```markdown
 aaa
@@ -2073,7 +2073,7 @@ bbb
 ccc
 ddd
 
-### [Example 191](https://higuma.github.io/github-flabored-markdown/#example-191)
+### [Example 191](https://higuma.github.io/gfm-implementation-checker/#example-191)
 
 ```markdown
 aaa
@@ -2087,7 +2087,7 @@ aaa
 
 bbb
 
-### [Example 192](https://higuma.github.io/github-flabored-markdown/#example-192)
+### [Example 192](https://higuma.github.io/gfm-implementation-checker/#example-192)
 
 ```markdown
   aaa
@@ -2097,7 +2097,7 @@ bbb
   aaa
  bbb
 
-### [Example 193](https://higuma.github.io/github-flabored-markdown/#example-193)
+### [Example 193](https://higuma.github.io/gfm-implementation-checker/#example-193)
 
 ```markdown
 aaa
@@ -2109,7 +2109,7 @@ aaa
              bbb
                                        ccc
 
-### [Example 194](https://higuma.github.io/github-flabored-markdown/#example-194)
+### [Example 194](https://higuma.github.io/gfm-implementation-checker/#example-194)
 
 ```markdown
    aaa
@@ -2119,7 +2119,7 @@ bbb
    aaa
 bbb
 
-### [Example 195](https://higuma.github.io/github-flabored-markdown/#example-195)
+### [Example 195](https://higuma.github.io/gfm-implementation-checker/#example-195)
 
 ```markdown
      aaa
@@ -2129,7 +2129,7 @@ bbbb
      aaa
 bbbb
 
-### [Example 196](https://higuma.github.io/github-flabored-markdown/#example-196)
+### [Example 196](https://higuma.github.io/gfm-implementation-checker/#example-196)
 
 ```markdown
 aaa     
@@ -2139,9 +2139,9 @@ bbb
 aaa     
 bbb     
 
-## [4.9 Blank lines](https://higuma.github.io/github-flabored-markdown/#blank-lines)
+## [4.9 Blank lines](https://higuma.github.io/gfm-implementation-checker/#blank-lines)
 
-### [Example 197](https://higuma.github.io/github-flabored-markdown/#example-197)
+### [Example 197](https://higuma.github.io/gfm-implementation-checker/#example-197)
 
 ```markdown
   
@@ -2163,9 +2163,9 @@ aaa
 
   
 
-## [4.10 Tables (extension)](https://higuma.github.io/github-flabored-markdown/#tables-extension-)
+## [4.10 Tables (extension)](https://higuma.github.io/gfm-implementation-checker/#tables-extension-)
 
-### [Example 198](https://higuma.github.io/github-flabored-markdown/#example-198)
+### [Example 198](https://higuma.github.io/gfm-implementation-checker/#example-198)
 
 ```markdown
 | foo | bar |
@@ -2177,7 +2177,7 @@ aaa
 | --- | --- |
 | baz | bim |
 
-### [Example 199](https://higuma.github.io/github-flabored-markdown/#example-199)
+### [Example 199](https://higuma.github.io/gfm-implementation-checker/#example-199)
 
 ```markdown
 | abc | defghi |
@@ -2189,7 +2189,7 @@ bar | baz
 :-: | -----------:
 bar | baz
 
-### [Example 200](https://higuma.github.io/github-flabored-markdown/#example-200)
+### [Example 200](https://higuma.github.io/gfm-implementation-checker/#example-200)
 
 ```markdown
 | f\|oo  |
@@ -2203,7 +2203,7 @@ bar | baz
 | b `\|` az |
 | b **\|** im |
 
-### [Example 201](https://higuma.github.io/github-flabored-markdown/#example-201)
+### [Example 201](https://higuma.github.io/gfm-implementation-checker/#example-201)
 
 ```markdown
 | abc | def |
@@ -2217,7 +2217,7 @@ bar | baz
 | bar | baz |
 > bar
 
-### [Example 202](https://higuma.github.io/github-flabored-markdown/#example-202)
+### [Example 202](https://higuma.github.io/gfm-implementation-checker/#example-202)
 
 ```markdown
 | abc | def |
@@ -2235,7 +2235,7 @@ bar
 
 bar
 
-### [Example 203](https://higuma.github.io/github-flabored-markdown/#example-203)
+### [Example 203](https://higuma.github.io/gfm-implementation-checker/#example-203)
 
 ```markdown
 | abc | def |
@@ -2247,7 +2247,7 @@ bar
 | --- |
 | bar |
 
-### [Example 204](https://higuma.github.io/github-flabored-markdown/#example-204)
+### [Example 204](https://higuma.github.io/gfm-implementation-checker/#example-204)
 
 ```markdown
 | abc | def |
@@ -2261,7 +2261,7 @@ bar
 | bar |
 | bar | baz | boo |
 
-### [Example 205](https://higuma.github.io/github-flabored-markdown/#example-205)
+### [Example 205](https://higuma.github.io/gfm-implementation-checker/#example-205)
 
 ```markdown
 | abc | def |

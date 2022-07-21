@@ -5,8 +5,6 @@
 
 ------------------------------------------------------------------------
 
-TODO: Translate to English
-
 ## About this document ([English](README.md) | 日本語)
 
 本文書は[Github Flabored Markdown(GFM)仕様書 (Version 0.29-gfm)](https://higuma.github.io/gfm-implementation-checker/)の全コード例を実際のMarkdown処理系に掛けてHTMLを生成し、対象処理系がGFMにどれだけ準拠しているかを実際に確認する目的で作成した。
@@ -37,4 +35,3 @@ TODO: Translate to English
 
 [Table of Contents](index.md) →
 [1. Introduction](introduction.md)
-
