@@ -31,7 +31,7 @@ TODO: Translate to English
 * [6 Inlines](inlines.md)
 * [Appendix: A parsing strategy](appendix-a-parsing-strategy.md)
 
-## [Full table of contents](index.md/#full-table-of-contents)
+## [Full table of contents](index.md#full-table-of-contents)
 
 ------------------------------------------------------------------------
 
