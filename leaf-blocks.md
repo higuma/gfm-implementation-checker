@@ -1,7 +1,7 @@
 # GFM implementation checker - [4 Leaf blocks](https://higuma.github.io/gfm-implementation-checker/#leaf-blocks)
 
 [3 Blocks and inlines](blocks-and-inlines.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [5 Container blocks](container-blocks.md)
 
 ------------------------------------------------------------------------
@@ -2274,5 +2274,5 @@ bar
 ------------------------------------------------------------------------
 
 [3 Blocks and inlines](blocks-and-inlines.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [5 Container blocks](container-blocks.md)

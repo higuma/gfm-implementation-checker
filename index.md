@@ -1,6 +1,6 @@
 # Github Flabored Markdown implementation checker
 
-Table of Contents →
+Table of contents →
 [1. Introduction](introduction.md)
 
 ------------------------------------------------------------------------
@@ -69,5 +69,5 @@ Table of Contents →
 
 ------------------------------------------------------------------------
 
-Table of Contents →
+Table of contents →
 [1. Introduction](introduction.md)

@@ -1,7 +1,7 @@
 # GFM implementation checker - [Appendix: A parsing strategy](https://higuma.github.io/gfm-implementation-checker/#appendix-a-parsing-strategy)
 
 [6 Inlines](inlines.md)
-← [Table of Contents](index.md)
+← [Table of contents](index.md)
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@
 ------------------------------------------------------------------------
 
 [6 Inlines](inlines.md)
-← [Table of Contents](index.md)
+← [Table of contents](index.md)

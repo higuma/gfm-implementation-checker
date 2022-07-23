@@ -1,7 +1,7 @@
 # GFM implementation checker - [3 Blocks and inlines](https://higuma.github.io/gfm-implementation-checker/#blocks-and-inlines)
 
 [2 Preliminaries](preliminaries.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [4 Leaf blocks](leaf-blocks.md)
 
 ------------------------------------------------------------------------
@@ -25,5 +25,5 @@
 ------------------------------------------------------------------------
 
 [2 Preliminaries](preliminaries.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [4 Leaf blocks](leaf-blocks.md)

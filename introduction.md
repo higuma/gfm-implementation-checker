@@ -1,6 +1,6 @@
 # GFM implementation checker - [1.Introduction](https://higuma.github.io/gfm-implementation-checker/#introduction)
 
-[Table of Contents](index.md) →
+[Table of contents](index.md) →
 [2 Preliminaries](preliminaries.md)
 
 ------------------------------------------------------------------------
@@ -23,5 +23,5 @@
 
 ------------------------------------------------------------------------
 
-[Table of Contents](index.md) →
+[Table of contents](index.md) →
 [2 Preliminaries](preliminaries.md)

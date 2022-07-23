@@ -1,7 +1,7 @@
 # GFM implementation checker - [5 Container blocks](https://higuma.github.io/gfm-implementation-checker/#container-blocks)
 
 [4 Leaf blocks](leaf-blocks.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [6 Inlines](inlines.md)
 
 ------------------------------------------------------------------------
@@ -1341,5 +1341,5 @@ The number of windows in my house is
 ------------------------------------------------------------------------
 
 [4 Leaf blocks](leaf-blocks.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [6 Inlines](inlines.md)

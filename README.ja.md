@@ -1,6 +1,6 @@
 # Github Flabored Markdown implementation checker
 
-[Table of Contents](index.md) →
+[Table of contents](index.md) →
 [1. Introduction](introduction.md)
 
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@
 
 ------------------------------------------------------------------------
 
-[Table of Contents](index.md) →
+[Table of contents](index.md) →
 [1. Introduction](introduction.md)
 
 [ブロック]: (https://higuma.github.io/gfm-implementation-checker/#blocks)

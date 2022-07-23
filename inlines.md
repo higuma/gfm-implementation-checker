@@ -1,7 +1,7 @@
 # GFM implementation checker - [6 Inlines](https://higuma.github.io/gfm-implementation-checker/#inlines)
 
 [5 Container blocks](container-blocks.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [Appendix: A parsing strategy](appendix-a-parsing-strategy.md)
 
 ------------------------------------------------------------------------
@@ -3275,5 +3275,5 @@ Multiple     spaces
 ------------------------------------------------------------------------
 
 [5 Container blocks](container-blocks.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [Appendix: A parsing strategy](appendix-a-parsing-strategy.md)

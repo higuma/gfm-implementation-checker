@@ -1,7 +1,7 @@
 # GFM implementation checker - [2 Preliminaries](https://higuma.github.io/gfm-implementation-checker/#preliminaries)
 
 [1 Introduction](introduction.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [3 Blocks and inlines](blocks-and-inlines.md)
 
 ------------------------------------------------------------------------
@@ -123,5 +123,5 @@
 ------------------------------------------------------------------------
 
 [1 Introduction](introduction.md)
-← [Table of Contents](index.md) →
+← [Table of contents](index.md) →
 [3 Blocks and inlines](blocks-and-inlines.md)
